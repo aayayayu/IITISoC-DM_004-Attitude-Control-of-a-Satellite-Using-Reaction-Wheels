@@ -1,6 +1,3 @@
-% BLDC Motor Control - Tuning 
-% Nick Bonafede 
-% 4/29/2020 
 clc; clear; 
 mdl = 'plant_working'; 
 open_system(mdl); 

@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'payload_camera.step',
-/* time_stamp */ '2026-07-04T18:01:44+05:30',
+/* name */ 'payload camera.step',
+/* time_stamp */ '2026-07-31T20:36:44+05:30',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -860,7 +860,7 @@ SOLID_ANGLE_UNIT()
 #807=PRODUCT_DEFINITION_SHAPE('',$,#810);
 #808=SHAPE_REPRESENTATION('',(#478),#800);
 #809=PRODUCT_DEFINITION_CONTEXT('part definition',#814,'design');
-#810=PRODUCT_DEFINITION('2026-07-04-18-01-44-489','payload camera',#811,
+#810=PRODUCT_DEFINITION('2026-06-29-22-13-40-329','payload camera',#811,
 #809);
 #811=PRODUCT_DEFINITION_FORMATION('',$,#816);
 #812=PRODUCT_RELATED_PRODUCT_CATEGORY('payload camera','payload camera',
@@ -870,7 +870,7 @@ SOLID_ANGLE_UNIT()
 #814=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #815=PRODUCT_CONTEXT('part definition',#814,'mechanical');
-#816=PRODUCT('2026-07-04-18-01-44-489','payload camera',$,(#815));
+#816=PRODUCT('2026-06-29-22-13-40-329','payload camera',$,(#815));
 #817=PRESENTATION_STYLE_ASSIGNMENT((#819));
 #818=PRESENTATION_STYLE_ASSIGNMENT((#820));
 #819=SURFACE_STYLE_USAGE(.BOTH.,#821);

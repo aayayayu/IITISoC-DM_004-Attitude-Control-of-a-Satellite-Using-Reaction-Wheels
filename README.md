@@ -8,7 +8,7 @@ The aim of this project is to design a realistically feasible cubesat and reacti
 
 ## Reaction wheels 
 
-Reaction wheels are entirely internal, consume very little power, and offer extremely fine pointing control. They are the preferred choice for missions demanding high accuracy — from large space telescopes to small student-built CubeSats. They work on the principle of conservation of angular momentum.
+Reaction wheels are entirely internal, consume very little power, and offer extremely fine pointing control. They are the preferred choice for missions demanding high accuracy from large space telescopes to small student-built CubeSats. They work on the principle of conservation of angular momentum.
 
 ## Control loop
 

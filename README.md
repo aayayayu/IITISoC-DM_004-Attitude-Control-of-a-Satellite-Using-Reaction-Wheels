@@ -12,7 +12,7 @@ Reaction wheels are entirely internal, consume very little power, and offer extr
 
 ## Control loop
 
-<img width="833" height="500" alt="Screenshot 2026-06-30 071853" src="https://github.com/user-attachments/assets/8196664a-cca0-43e6-8cf6-6890e880d23c" />
+<img width="1044" height="554" alt="Screenshot 2026-08-12 111600" src="https://github.com/user-attachments/assets/b0a7a61f-d8a9-4f36-9687-965db2b44c24" />
 
 Reference block: Converts geodetic coordinates to EC/EF frame and EC/EFframe to GCI frame and their respective attitude matrices to their quaternion parameterization.
 
